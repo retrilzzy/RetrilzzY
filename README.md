@@ -1,4 +1,15 @@
-![](https://visitcount.itsvg.in/api?id=retrilzzy&icon=5&color=1)
+### Retrilzzy
+[![](https://visitcount.itsvg.in/api?id=retrilzzy&icon=5&color=1)](https://github.com/RetrilzzY)
+
+## 🌐 Contact/Socials
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/613636431532785664)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@rzx.ovh)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/retrilz)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rzx.ovh)
+
+
+## 📊 GitHub Stats: 
+![](https://github-readme-streak-stats.herokuapp.com/?user=retrilzzy&theme=transparent&hide_border=true)
 
 
 ## 📑 Tech Stack:
@@ -61,6 +72,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Zsh](https://img.shields.io/badge/zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-
-## 📊 GitHub Stats: 
-![](https://github-readme-streak-stats.herokuapp.com/?user=retrilzzy&theme=transparent&hide_border=true)
