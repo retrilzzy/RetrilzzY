@@ -1,7 +1,7 @@
-### Retrilzzy
 [![](https://visitcount.itsvg.in/api?id=retrilzzy&icon=5&color=1)](https://github.com/RetrilzzY)
 
 ## 🌐 Contact/Socials
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/613636431532785664)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@rzx.ovh)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/retrilz)
@@ -15,8 +15,7 @@
 ## 📑 Tech Stack:
 
 
-### ⚡ Languages: 
-**Еxperience:** more --> less
+### ⚡ Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,8 +25,7 @@
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 
-### 📚 <ins>Main</ins> Frameworks & Libraries: 
-**Еxperience:** more --> less
+### 📚 <ins>Main</ins> Frameworks & Libraries:
 
 ![Discordpy](https://custom-icon-badges.demolab.com/badge/Discord.py-323330?style=for-the-badge&logo=discord-py&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -40,8 +38,7 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
-### 🗃️ Databases: 
-**Еxperience:** more --> less
+### 🗃️ Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,19 +46,22 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### 🎨 Design: 
+### 🎨 Design:
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 
-### 💻 Operating systems: 
+### 💻 Operating systems:
+
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=black&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows%2010/11-bfe0f5?logo=windows&logoColor=white&style=for-the-badge)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-bfe0f5?logo=windows&logoColor=white&style=for-the-badge)
 
 
-### 🗂️ No category: 
+### 🗂️ No category:
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![BetterStack](https://img.shields.io/badge/Better%20Stack-000000?style=for-the-badge&logo=betterstack&logoColor=white)
