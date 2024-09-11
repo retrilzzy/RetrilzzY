@@ -29,12 +29,13 @@
 
 ![Discordpy](https://custom-icon-badges.demolab.com/badge/Discord.py-323330?style=for-the-badge&logo=discord-py&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy)
 ![Uvicorn](https://custom-icon-badges.demolab.com/badge/Uvicorn-41414d?style=for-the-badge&logo=uvicorn&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![Jinja](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-grey?style=for-the-badge&logo=JSON%20web%20tokens)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Openai](https://img.shields.io/badge/Openai%20PY-412991?style=for-the-badge&logo=openai)
+![Openai](https://img.shields.io/badge/Openai-412991?style=for-the-badge&logo=openai)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
@@ -43,7 +44,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🎨 Design:
