@@ -67,6 +67,8 @@
 ![BetterStack](https://img.shields.io/badge/Better%20Stack-000000?style=for-the-badge&logo=betterstack&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70.svg?style=for-the-badge&logo=letsencrypt)
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
