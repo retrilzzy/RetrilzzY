@@ -10,6 +10,7 @@
 
 ## 📊 GitHub Stats: 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=retrilzzy&theme=transparent&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&bg_color=ffffff00&color=006AFE&line=006AFE&point=005DDF&hide_border=true&hide_title=true&days=20)
 
 
 ## 📑 Tech Stack:
