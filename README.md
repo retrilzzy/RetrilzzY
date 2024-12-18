@@ -19,26 +19,22 @@
 ### ⚡ Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GNU Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### 📚 <ins>Main</ins> Frameworks & Libraries:
+### 📚 Main Frameworks & Libraries:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Discordpy](https://custom-icon-badges.demolab.com/badge/Discord.py-323330?style=for-the-badge&logo=discord-py&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy)
 ![Uvicorn](https://custom-icon-badges.demolab.com/badge/Uvicorn-41414d?style=for-the-badge&logo=uvicorn&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-grey?style=for-the-badge&logo=JSON%20web%20tokens)
+![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Openai](https://img.shields.io/badge/Openai-412991?style=for-the-badge&logo=openai)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
 ### 🗃️ Databases:
@@ -51,15 +47,18 @@
 
 ### 🎨 Design:
 
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Lunacy](https://img.shields.io/badge/lunacy-179DE3.svg?style=for-the-badge&logo=lunacy&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 ### 💻 Operating systems:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=black&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
+![Armbian](https://custom-icon-badges.demolab.com/badge/armbian-E0E0E0?logo=armbian&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-bfe0f5?logo=windows&logoColor=white&style=for-the-badge)
 
 
@@ -71,11 +70,9 @@
 ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GH actions](https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Portainer](https://img.shields.io/badge/portainer-13BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
-![NPM](https://img.shields.io/badge/nginx%20proxy%20manager-F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70.svg?style=for-the-badge&logo=letsencrypt)
-
-![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NPMP](https://img.shields.io/badge/npm%20plus-F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
+![CrowdSec](https://custom-icon-badges.demolab.com/badge/crowdsec-3F3976?logo=crowdsec&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker%20swarm-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Zsh](https://img.shields.io/badge/zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=white)
