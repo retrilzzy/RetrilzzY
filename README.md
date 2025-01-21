@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=retrilzzy&icon=5&color=1)](https://github.com/RetrilzzY)
-
 ## 🌐 Contact/Socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/613636431532785664)
@@ -8,9 +6,12 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rzx.ovh)
 
 
-## 📊 GitHub Stats: 
-![](https://github-readme-streak-stats.herokuapp.com/?user=retrilzzy&theme=transparent&hide_border=true)
-![](https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&bg_color=ffffff00&color=006AFE&line=006AFE&point=005DDF&hide_border=true&hide_title=true&days=20)
+## 📊 Stats: 
+[![](https://git-streak.rzx.ovh/?user=retrilzzy&theme=transparent&hide_border=true&stroke=FFFFFF00)](https://git-streak.rzx.ovh)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&bg_color=ffffff00&color=006AFE&line=006AFE&point=005DDF&hide_border=true&days=20&custom_title=Contribution%20Graph)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=retrilzzy&theme=transparent&hide_border=true)
 
 
 ## 📑 Tech Stack:
