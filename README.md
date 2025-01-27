@@ -9,9 +9,9 @@
 ## 📊 Stats: 
 [![](https://git-streak.rzx.ovh/?user=retrilzzy&theme=transparent&hide_border=true&stroke=FFFFFF00)](https://git-streak.rzx.ovh)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&bg_color=ffffff00&color=006AFE&line=006AFE&point=005DDF&hide_border=true&days=20&custom_title=Contribution%20Graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&bg_color=ffffff00&color=006AFE&line=006AFE&point=005DDF&hide_border=true&days=20&custom_title=Contribution%20Graph)](https://github.com/retrilzzy)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=retrilzzy&theme=transparent&hide_border=true)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=retrilzzy&theme=transparent&hide_border=true)](https://wakatime.com/@retrilzzy)
 
 
 ## 📑 Tech Stack:
@@ -58,6 +58,7 @@
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=black&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white&style=for-the-badge)
 ![Armbian](https://custom-icon-badges.demolab.com/badge/armbian-E0E0E0?logo=armbian&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-bfe0f5?logo=windows&logoColor=white&style=for-the-badge)
