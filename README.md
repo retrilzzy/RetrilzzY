@@ -9,7 +9,7 @@
 ## 📊 Stats: 
 [![](https://git-streak.rzx.ovh/?user=retrilzzy&theme=transparent&hide_border=true&stroke=FFFFFF00)](https://git-streak.rzx.ovh)
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&bg_color=ffffff00&color=006AFE&line=006AFE&point=005DDF&hide_border=true&days=20&custom_title=Contribution%20Graph)](https://github.com/retrilzzy)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&bg_color=ffffff00&color=006AFE&line=006AFE&point=005DDF&hide_border=true&days=7&custom_title=Contribution%20Graph%20%28last%207%20days%29)](https://github.com/retrilzzy)
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=retrilzzy&theme=transparent&hide_border=true)](https://wakatime.com/@retrilzzy)
 
