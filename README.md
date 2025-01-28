@@ -34,7 +34,7 @@
 ![Jinja](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-grey?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Openai](https://img.shields.io/badge/Openai-412991?style=for-the-badge&logo=openai)
 
 
