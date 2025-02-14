@@ -28,7 +28,7 @@
 ### 📚 Main Frameworks & Libraries:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Discordpy](https://custom-icon-badges.demolab.com/badge/Discord.py-323330?style=for-the-badge&logo=discord-py&logoColor=white)
+![Discordpy/Disnake](https://custom-icon-badges.demolab.com/badge/Discord.py%2FDisnake-323330?style=for-the-badge&logo=discord-py&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy)
 ![Uvicorn](https://custom-icon-badges.demolab.com/badge/Uvicorn-41414d?style=for-the-badge&logo=uvicorn&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
