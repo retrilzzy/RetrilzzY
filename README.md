@@ -72,6 +72,8 @@
 ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GH actions](https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ![NPMP](https://img.shields.io/badge/npm%20plus-F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
 ![CrowdSec](https://custom-icon-badges.demolab.com/badge/crowdsec-3F3976?logo=crowdsec&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker%20swarm-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
