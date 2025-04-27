@@ -31,14 +31,14 @@
 <h2 align="center">✨ Stats</h2>
 
 <p align="center">
-  <a href="-stats"><img src="https://git-streak.rzx.ovh/?user=retrilzzy&theme=github-dark-blue&hide_border=true&stroke=FFFFFF00" width="600"/></a>
+  <a href="#-stats"><img src="https://git-streak.rzx.ovh/?user=retrilzzy&theme=github-dark-blue&hide_border=true&stroke=FFFFFF00" width="600"/></a>
 </p>
 
 <p align="center">
-  <a href="-stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&theme=github-dark&hide_border=true&days=14&custom_title=Contribution%20Graph%20%28last%2014%20days%29" width="600"/></a>
+  <a href="#-stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&theme=github-dark&hide_border=true&days=14&custom_title=Contribution%20Graph%20%28last%2014%20days%29" width="600"/></a>
 </p>
 
 <p align="center">
-  <a href="-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=retrilzzy&custom_title=WakaTime%20Stats%20%28since%20Oct%2028%2C%202024%29&theme=github_dark&hide_border=true&layout=compact&langs_count=24" width="600"/></a>
+  <a href="#-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=retrilzzy&custom_title=WakaTime%20Stats%20%28since%20Oct%2028%2C%202024%29&theme=github_dark&hide_border=true&layout=compact&langs_count=24" width="600"/></a>
 </p>
 
