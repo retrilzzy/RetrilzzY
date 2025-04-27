@@ -22,7 +22,7 @@
 - ⚙️ **Workflow** — `Git` `GitHub Actions` `Zsh` `Bash`
 - 🐳 **Docker** — `Compose` `Swarm`
 - ☁️ **SaaS** — `GitHub` `Cloudflare` `Sentry` `Vercel` `GitLab CR`
-- 🏡 **Self-Managed** — `Nginx` `NPM+` `CrowdSec` `WordPress` `Mailcow`
+- 🏡 **Self-Managed** — `Nginx` `NPM+` `CrowdSec` `MinIO` `WordPress` `Mailcow`
 - 🛢️ **Databases** — `Postgres, Redis` `SQLite` `MongoDB`
 - 📈 **Monitoring** — `Promtail` `Loki` `Prometheus` `cAdvisor` `Grafana`
 </p>
