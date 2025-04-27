@@ -15,7 +15,7 @@
 
 - 🐍 **Python** — `FastAPI` `Discord.py/Disnake` `SQLAlchemy`
 - 🦦 **Golang** — `Fiber` `MinIO` `GORM`
-- 🌐 HTML5, CSS3, JavaScript
+- 🌐 **HTML5, CSS3, JavaScript**
 </br>
 
 - 🐧 **GNU/Linux** — `Arch Linux desktop` `Debian server/desktop` `Ubuntu server` `Armbian IoT`
@@ -23,7 +23,7 @@
 - 🐳 **Docker** — `Compose` `Swarm`
 - ☁️ **SaaS** — `GitHub` `Cloudflare` `Sentry` `Vercel` `GitLab CR`
 - 🏡 **Self-Managed** — `Nginx` `NPM+` `CrowdSec` `MinIO` `WordPress` `Mailcow`
-- 🛢️ **Databases** — `Postgres, Redis` `SQLite` `MongoDB`
+- 🛢️ **Databases** — `Postgres` `Redis` `SQLite` `MongoDB`
 - 📈 **Monitoring** — `Promtail` `Loki` `Prometheus` `cAdvisor` `Grafana`
 </p>
 
