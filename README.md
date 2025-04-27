@@ -1,16 +1,13 @@
-<h2 align="center">🌐 Contact / Socials</h2>
+<h2 align="center">📨 Contact me</h2>
 <p align="center">
   <a href="https://discord.com/users/613636431532785664"><img src="https://img.shields.io/badge/Discord-0D1017?style=for-the-badge&logo=discord" alt="Discord"/></a>
   <a href="https://x.com/retrilz"><img src="https://img.shields.io/badge/X-0D1017?style=for-the-badge&logo=x" alt="X (Twitter)"/><a href="mailto:retrilz@proton.me"><img src="https://img.shields.io/badge/Email-0D1017?style=for-the-badge&logo=protonmail" alt="Email"/>
-  </a>
-  <a href="https://rzx.ovh"><img src="https://img.shields.io/badge/Website-0D1017?style=for-the-badge&logo=searxng" alt="Website"/>
   </a>
 </p>
 
 
 
-
-<h2 align="center">🛸 Tech Stack</h2>
+<h2 align="center">⚗️ Tech Stack</h2>
 <p align="center">
 
 - 🐍 **Python** — `FastAPI` `Discord.py/Disnake` `SQLAlchemy`
@@ -26,6 +23,7 @@
 - 🛢️ **Databases** — `Postgres` `Redis` `SQLite` `MongoDB`
 - 📈 **Monitoring** — `Promtail` `Loki` `Prometheus` `cAdvisor` `Grafana`
 </p>
+
 
 
 <h2 align="center">✨ Stats</h2>
