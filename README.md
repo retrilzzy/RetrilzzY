@@ -21,7 +21,7 @@
 - ☁️ **SaaS** — `GitHub` `Cloudflare` `Sentry` `Vercel` `GitLab CR`
 - 🏡 **Self-Managed** — `Nginx` `NPM+` `CrowdSec` `MinIO` `WordPress` `Mailcow` `Traefik`
 - 🛢️ **Databases** — `Postgres` `Redis` `SQLite` `MongoDB`
-- 📈 **Monitoring** — `Promtail` `Loki` `Prometheus` `cAdvisor` `Grafana`
+- 📈 **Monitoring** — `Promtail` `Loki` `Prometheus` `Node Exporter` `cAdvisor` `Grafana`
 </p>
 
 
