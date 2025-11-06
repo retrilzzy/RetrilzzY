@@ -15,12 +15,10 @@
 - 🌐 **HTML5, CSS3, JavaScript**
 </br>
 
-- 🐧 **GNU/Linux** — `Arch Linux desktop` `Debian server/desktop` `Ubuntu server` `Armbian IoT`
-- ⚙️ **Workflow** — `Git` `GitHub Actions` `Zsh` `Bash`
-- 🐳 **Docker** — `Compose` `Swarm`
+- 🐧 **GNU/Linux** — `Arch Linux desktop` `Debian server/desktop` `Armbian IoT`
+- ⚙️ **Workflow** — `Git` `GitHub Actions` `Bash` `Docker Compose/Swarm`
 - ☁️ **SaaS** — `GitHub` `Cloudflare` `Sentry` `Vercel` `GitLab CR`
-- 🏡 **Self-Managed** — `Nginx` `NPM+` `CrowdSec` `MinIO` `WordPress` `Mailcow` `Traefik`
-- 🛢️ **Databases** — `Postgres` `Redis` `SQLite` `MongoDB`
+- 🏡 **Self-Managed** — `NGINX` `NPM+` `CrowdSec` `MinIO` `WordPress` `Mailcow` `Traefik` `Nextcloud` `Netbird`
 - 📈 **Monitoring** — `Promtail` `Loki` `Prometheus` `Node Exporter` `cAdvisor` `Grafana`
 </p>
 
