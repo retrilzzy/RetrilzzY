@@ -1,8 +1,8 @@
-<h2 align="center">📨 Contact me</h2>
+<h2 align="center">📬 Contacts</h2>
 <p align="center">
-  <a href="https://discord.com/users/613636431532785664"><img src="https://img.shields.io/badge/Discord-0D1017?style=for-the-badge&logo=discord" alt="Discord"/></a>
-  <a href="https://x.com/retrilz"><img src="https://img.shields.io/badge/X-0D1017?style=for-the-badge&logo=x" alt="X (Twitter)"/></a>
-  <a href="mailto:retrilz@proton.me"><img src="https://img.shields.io/badge/Email-0D1017?style=for-the-badge&logo=protonmail" alt="Email"/></a>
+  <a href="https://matrix.to/#/@retrilz:matrix.org"><img src="https://img.shields.io/badge/Matrix-0D1117?style=for-the-badge&logo=matrix" alt="Matrix"/></a>
+  <a href="mailto:retrilz@proton.me"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail" alt="Email"/></a>
+  <a href="https://discord.com/users/613636431532785664"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord" alt="Discord"/></a>
 </p>
 
 
