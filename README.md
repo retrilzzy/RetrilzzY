@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=retrilzzy&theme=github_dark&hide_border=true&layout=compact&langs_count=24" width="600"/>
+  <img src="https://github-readme-stats-eight-zeta-69.vercel.app/api/wakatime?username=retrilzzy&theme=github_dark&hide_border=true&layout=compact&langs_count=24" width="600"/>
   <br>
   <img src="https://wakatime.com/badge/user/58aee873-f88e-42d5-bf4e-cdeda1e6c705.svg?style=for-the-badge&label_color=" alt="Total time coded since Oct 28 2024" />
 </p>
