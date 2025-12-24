@@ -6,20 +6,17 @@
 </p>
 
 
-
 <h2 align="center">⚗️ Tech Stack</h2>
 <p align="center">
 
-- 🐍 **Python** — `FastAPI` `Discord.py/Disnake` `SQLAlchemy`
-- 🦦 **Golang** — `Fiber` `MinIO` `GORM`
-- 🌐 **HTML5, CSS3, JavaScript**
-</br>
+- 🐍 **Python** - `FastAPI` `Discord.py` `SQLAlchemy`
+- 🦦 **Golang** - `Fiber` `GORM`
 
-- ⚙️ **Workflow** — `Linux` `Git` `GitHub Actions` `Bash` `Docker Compose/Swarm`
-- ☁️ **SaaS** — `GitHub` `Cloudflare` `Sentry` `Vercel` `GitLab CR`
-- 🏡 **Self-Managed** — `NGINX` `NPM+` `CrowdSec` `MinIO` `WordPress` `Mailcow` `Traefik` `Nextcloud` `Netbird` `Promtail` `Loki` `Prometheus` `Node Exporter` `cAdvisor` `Grafana`
+- ⚙️ **Workflow** - `Linux` `Git` `Docker Compose/Swarm` `Base CI/CD`
+- ☁️ **SaaS** - `GitHub` `Cloudflare` `Sentry`
+- 🏡 **Self-Hosted** - `Nginx` `Traefik` `Mailcow` `Prometheus` `Grafana` 
+
 </p>
-
 
 
 <h2 align="center">✨ Stats</h2>
@@ -37,4 +34,3 @@
   <br>
   <img src="https://wakatime.com/badge/user/58aee873-f88e-42d5-bf4e-cdeda1e6c705.svg?style=for-the-badge&label_color=" alt="Total time coded since Oct 28 2024" />
 </p>
-
