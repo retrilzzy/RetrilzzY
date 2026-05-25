@@ -6,19 +6,6 @@
 </p>
 
 
-<h2 align="center">⚗️ Tech Stack</h2>
-<p align="center">
-
-- 🐍 **Python** - `FastAPI` `Discord.py` `SQLAlchemy`
-- 🦦 **Golang** - `Fiber` `GORM`
-
-- ⚙️ **Workflow** - `Linux` `Git` `Docker Compose/Swarm` `Base CI/CD`
-- ☁️ **SaaS** - `GitHub` `Cloudflare` `Sentry`
-- 🏡 **Self-Hosted** - `Nginx` `Traefik` `Mailcow` `Prometheus` `Grafana` 
-
-</p>
-
-
 <h2 align="center">✨ Stats</h2>
 
 <p align="center">
